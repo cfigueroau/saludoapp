@@ -16,3 +16,6 @@ Separar entornos (dev, staging, prod) y agregar una etapa de aprobación manual 
 Paralelizar pruebas para mayor eficiencia
 
 ![image](https://github.com/user-attachments/assets/d6f3babd-1198-4dfe-96f9-0cea565c5e11)
+
+¿Qué aprendimos? ¿Qué nos sorprendió más?
+Aprendimos a montar todo el flujo de integración continua con Jenkins, desde subir el código a GitHub hasta que el pipeline se ejecute con cada cambio. Ver cómo se compila, prueba y empaqueta sin que uno tenga que hacer nada manual fue muy satisfactorio. Lo que más nos sorprendió fue lo fácil que es automatizar tareas repetitivas y lo útil que resulta para detectar errores rápido. También nos dimos cuenta de lo potente que es Jenkins cuando todo está bien configurado.

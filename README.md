@@ -14,3 +14,5 @@ Escaneo de seguridad con OWASP Dependency-Check
 Notificaciones (Slack o correo) tras cada ejecución
 Separar entornos (dev, staging, prod) y agregar una etapa de aprobación manual antes de desplegar en producción
 Paralelizar pruebas para mayor eficiencia
+
+![image](https://github.com/user-attachments/assets/d6f3babd-1198-4dfe-96f9-0cea565c5e11)

@@ -3,7 +3,7 @@ pipeline {
 
         tools {
             maven 'Maven 3.9.10'
-            jdk 'JDK17'
+            jdk 'JDK21'
             }
         stages {
             stage('Clonar') {
